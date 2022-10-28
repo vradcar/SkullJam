@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1FD87254-93D5-3C98-320D-0E91C74565DD}</ProjectGuid>
+    <ProjectGuid>{938DA2D3-B5B2-BAA3-DE5B-C35FEA17AEE7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\CharacterController2D.cs" />
+    <Compile Include="Assets\ParallaxLayer.cs" />
+    <Compile Include="Assets\ParallaxController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Cave Platformer Tileset\readme.txt" />
